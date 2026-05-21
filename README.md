@@ -44,7 +44,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Markdown     35 mins               █████████▒░░░░░░░░░░░░░░░   36.87 %
+Go           31 mins               ████████░░░░░░░░░░░░░░░░░   32.35 %
+dosini       13 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   13.83 %
+TypeScript   11 mins               ███░░░░░░░░░░░░░░░░░░░░░░   12.11 %
+SQL          2 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.81 %
 ```
 
 <!--END_SECTION:waka-->
