@@ -39,17 +39,7 @@
 </div>
 
 <br/>
-<div align="center">
-<pre>
-<!--START_SECTION:waka-->
 
-```txt
-Rust   4 mins                █████████████████████████   100.00 %
-```
-
-<!--END_SECTION:waka-->
-</pre>
-</div>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/vidwadeseram/vidwadeseram/output/github-contribution-grid-snake.svg" alt="snake eating my contributions" />
